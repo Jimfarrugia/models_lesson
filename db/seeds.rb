@@ -12,4 +12,5 @@ for i in 1..20
     description: Faker::Book.genre
   )
   puts "Created #{i} Books"
+  
 end
